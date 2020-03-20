@@ -73,7 +73,7 @@ int main()
 
 
 		}
-	} while (choice =! EXIT);
+	} while (choice != EXIT);
 
 	system("pause");
 	return 0;

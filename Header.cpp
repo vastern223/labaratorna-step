@@ -100,7 +100,7 @@ void Sort_the_array(int *arr)
 		break;
 	}
 	case RIGHT:
-	{int counter = 0;
+	{   int counter = 0;
 	for (int i = 0; i < SIZ - 1; i++)
 	{
 		int max = arr[i];
@@ -112,8 +112,8 @@ void Sort_the_array(int *arr)
 				max = arr[j];
 				ind = j;
 
-
 			}
+
 		}
 		temp = arr[i];
 		arr[i] = arr[ind];
