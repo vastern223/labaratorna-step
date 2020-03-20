@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Kolotyuk\source\repos\завдання шаг\завдання шаг\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kolotyuk\source\repos\завдання шаг\завдання шаг\Source.cpp(282,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  завдання шаг.vcxproj -> C:\Users\Kolotyuk\source\repos\завдання шаг\Debug\завдання шаг.exe
